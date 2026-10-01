@@ -1,4 +1,3 @@
-# N.O.A.H. — situs
+# Pindah / Moved
 
-Halaman publik N.O.A.H. (No-Internet Offline AI Helper): beranda dan kebijakan privasi.
-English: index.html, privacy.html · Bahasa Indonesia: id/
+Situs N.O.A.H. sekarang di https://noah-darurat.github.io (repo: https://github.com/noah-darurat/noah-darurat.github.io). Halaman di sini hanya mengalihkan ke alamat baru.
